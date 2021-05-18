@@ -1,0 +1,241 @@
+﻿*
+{
+    margin:0;
+    padding:0;
+    font-family:Sans-Serif;
+}
+.wrapper
+{
+    margin:auto;
+}
+
+.container
+{
+    height:102vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background:url(https://wallpaperaccess.com/full/2312001.jpg);
+}
+
+ul 
+{
+    list-style-type: none;
+    margin : 0;
+    padding : 0;
+    overflow: hidden;
+    background-color:#8c8ca6;
+    overflow:hidden;
+}
+
+li 
+{
+    float: right;
+    margin-top:20px;
+}
+
+li a 
+{
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover 
+{
+  background:#fff;
+  text-decoration:none;
+  color:#333;;
+}
+
+.welcome-text 
+{
+	position: absolute;
+	width: 600px;
+	height: 300px;
+	margin: 0% 28%;
+	text-align: center;
+}
+
+.welcome-text h1 
+{
+	text-align: center;
+	color: #cf1717;
+	text-transform: uppercase;
+	font-size: 60px;
+	
+}
+
+.welcome-text h1 span 
+{
+	color: #000000;
+}
+
+.welcome-text a 
+{
+	border: 5px solid black;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-top: 20px;
+	display: inline-block;
+	color: Black;
+	background: #fff;
+	font-weight:900;
+}
+
+.welcome-text a:hover 
+{
+	background: #cf1717;
+	color: #000000;
+}
+
+.img
+{
+    width:250px;
+   
+}
+
+.detailbox
+{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width:350px;
+    height:420px;
+    padding:80px 0px;
+    box-sizing: border-box;
+}
+
+.press
+{
+	border: 1px solid black;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-top: 20px;
+	display: inline;
+	color: black;
+	cursor:pointer;
+	margin-left:80px;
+	font-weight:900;
+	background: #fff;
+}
+
+.press:hover 
+{
+	background: #cf1717;
+	color: #000000;
+}
+
+.table
+{
+            width: 600px;
+            height: 200px;
+            color: white;
+            font-size: 30px;
+            border-color: white;
+            margin-left: auto;
+        	margin-right: auto;
+            
+}
+
+.th,.td
+{
+            padding: 11px;
+        	text-align: center;
+        	border: 3px solid #071a3d ;
+        	 border-collapse:collapse;
+}
+
+.th
+{
+        	background-color: #071a3d ;
+        	color: white;
+        	padding:16px;
+}       
+        
+h1
+{
+        	text-align: center;
+        	font-size: 50px;
+        	padding:15px;
+}
+        
+.flat-table-1
+{
+     background:#071a3d;
+     text-align:center;
+     margin-left:auto;
+     margin-right:auto;
+     border:4px solid gray;
+     border-collapse:collapse;
+}
+
+.flat-table-1 tr:hover
+{
+     background:rgba(0,0,0,0,19)
+}
+
+td
+{
+    font-size:22px;
+    color:#ffffff;
+    padding:11px 16px 11px 18px;
+    font-weight:bolder;
+    background:#8c8ca6
+}
+
+tr
+{
+     transition:background 0.3s,box-shadow 0.3s;
+}
+ 
+th,td
+{
+     border-collapse:collapse;
+     border:2px groove gray;
+}
+
+th
+{
+     font-size:24px;
+     color:#fff;
+     padding:16px;
+}
+
+h2
+{
+     text-align: center;
+        	font-size: 30px;
+        	padding:15px;
+        
+        	
+}
+
+.DropDownList
+{
+     width:170px;
+     height:20px;
+}
+
+.footer
+{
+   
+    bottom:2px;
+    text-align:center;
+    background:black;
+    color:#ffffff;
+    width: -webkit-fill-available;
+}
+
+.control
+{
+    border-width:thick;
+}

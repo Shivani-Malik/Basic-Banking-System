@@ -1,0 +1,5 @@
+c:\users\shivi\documents\visual studio 2010\Projects\banking_system\banking_system\bin\banking_system.dll
+c:\users\shivi\documents\visual studio 2010\Projects\banking_system\banking_system\bin\banking_system.pdb
+c:\users\shivi\documents\visual studio 2010\Projects\banking_system\banking_system\obj\Debug\ResolveAssemblyReference.cache
+c:\users\shivi\documents\visual studio 2010\Projects\banking_system\banking_system\obj\Debug\banking_system.dll
+c:\users\shivi\documents\visual studio 2010\Projects\banking_system\banking_system\obj\Debug\banking_system.pdb
